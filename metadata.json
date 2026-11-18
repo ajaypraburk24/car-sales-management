@@ -1,0 +1,6 @@
+{
+  "name": "Apex Prestige Motors — Car Sales Management System",
+  "description": "Complete automotive dealership management platform for vehicle inventory, customer CRM, sales & GST billing, payments, test drives, enquiries, employee performance, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
